@@ -1,6 +1,6 @@
 # CollatzConjectureGrapher
 
-This is my first C++ project. Input a number of how far you want it to go, and it will graph every Collatz Conjecture up to that number.
+This is my first C++ project. Input a number of how far you want it to go, and it will graph every Collatz Conjecture up to that number using [matplotlibcpp](https://github.com/lava/matplotlib-cpp).
 
 ## Installation
 
